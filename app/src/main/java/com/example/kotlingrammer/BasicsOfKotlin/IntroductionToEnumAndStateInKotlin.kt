@@ -1,4 +1,5 @@
 package com.example.kotlingrammer.BasicsOfKotlin
+/*
 
 fun main(){
 
@@ -50,4 +51,4 @@ enum class Result{
     ERROR,
     IDLE,
     LOADING
-}
+}*/
